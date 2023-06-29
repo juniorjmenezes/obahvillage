@@ -19,7 +19,6 @@
 	<!-- /Content -->
 	<?php include 'layout/footer.php'; ?>   
 	<?php include 'layout/chat.php'; ?>
-	<?php include 'layout/language.php'; ?>
 	<!-- JavaScripts -->
 	<script src="assets/js/jquery-3.4.1.min.js"></script>
 	<script src="assets/js/plugins.min.js"></script>
