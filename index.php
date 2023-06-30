@@ -5,24 +5,20 @@
 </head>
 <body>
 	<?php include 'layout/preloader.php'; ?>
-	<?php include 'home/header.php'; ?>
+	<?php include 'layout/header.php'; ?>
 	<!-- Content -->
 	<main class="main">
-		<?php include 'home/slider.php'; ?>
-		<?php include 'home/booking.php'; ?>
-		<?php include 'home/about_us.php'; ?>
-		<?php include 'home/rooms.php'; ?>
-		<?php include 'home/features.php'; ?>
-		<?php include 'home/testimonials.php'; ?>				
-		<?php include 'home/cta.php'; ?>
+		<?php include 'partials/home/slider.php'; ?>
+		<?php include 'partials/home/booking.php'; ?>
+		<?php include 'partials/home/about_us.php'; ?>
+		<?php include 'partials/home/rooms.php'; ?>
+		<?php include 'partials/home/features.php'; ?>
+		<?php include 'partials/home/testimonials.php'; ?>				
+		<?php include 'layout/cta.php'; ?>
 	</main>
 	<!-- /Content -->
 	<?php include 'layout/footer.php'; ?>   
 	<?php include 'layout/chat.php'; ?>
-	<!-- JavaScripts -->
-	<script src="assets/js/jquery-3.4.1.min.js"></script>
-	<script src="assets/js/plugins.min.js"></script>
-    <script src="assets/js/common.js"></script>    
-	<script src="assets/demo/plugins-demo.js"></script>
+	<?php include 'layout/scripts.php'; ?>
 </body>
 </html>
