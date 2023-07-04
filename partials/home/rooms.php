@@ -24,7 +24,7 @@
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Suíte Standard</h4>
+                            <h4 class="title title--h4">Quarto Standard</h4>
                         </div>	
                     </div>
 
@@ -36,7 +36,7 @@
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Suíte Deluxe</h4>
+                            <h4 class="title title--h4">Quarto Deluxe</h4>
                         </div>
                     </div>	
 
@@ -48,31 +48,7 @@
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Família Standard</h4>
-                        </div>
-                    </div>
-
-                    <!-- ItemRoom -->
-                    <div class="itemRoom itemRoom__portrait swiper-slide">
-                        <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="#">
-                                <img class="cover" src="assets/images/room_04.jpg" alt="room" />
-                            </a>
-                        </figure>
-                        <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Família Jardim</h4>
-                        </div>
-                    </div>
-                    
-                    <!-- ItemRoom -->
-                    <div class="itemRoom itemRoom__portrait swiper-slide">
-                        <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="#">
-                                <img class="cover" src="assets/images/room_05.jpg" alt="room" />
-                            </a>
-                        </figure>
-                        <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Família Deluxe</h4>
+                            <h4 class="title title--h4">Quarto Família</h4>
                         </div>
                     </div>
                 </div>

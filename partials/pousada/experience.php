@@ -1,5 +1,5 @@
 <!-- Section Experience -->
-<section class="container section section-gray p-5">		
+<section class="container section section-gray rounded rounded-2 p-5">		
     <div class="row mb-4 mb-md-5">
         <div class="col-12">
             <span class="title title--overhead js-lines">A Experiência</span>
@@ -10,32 +10,33 @@
     <!-- Item Approach -->
     <div class="row item-approach" data-approach="01">
         <div class="col-12 col-lg-6">
-            <h3 class="title title--h3 js-lines">Service Quality</h3>
+            <h3 class="title title--h3 js-lines">Qualidade</h3>
         </div>
         <div class="col-12 col-lg-6">
-            <p class="paragraph js-scroll-show">Service quality in the hospitality industry becomes one of the most important factors for gaining a sustainable competitive advantage and customers’ confidence in the highly competitive marketplace, and therefore service quality can give the hospitality industry a great chance to create competitive differentiation for organizations.</p>
-            <p class="paragraph js-scroll-show">A successful hotel delivers excellent quality service to customers, and service quality is considered the life of the hotel.</p>
+            <p class="paragraph js-scroll-show">Estamos comprometidos em proporcionar uma estadia agradável, com atendimento personalizado, quartos confortáveis e instalações bem cuidadas. Sua satisfação é nossa maior motivação.</p>
+            <p class="paragraph js-scroll-show">Além disso, investimos continuamente no aprimoramento de nossos serviços, buscando oferecer experiências memoráveis. Nossa equipe dedicada está sempre pronta para ajudar, fornecer informações locais e garantir que você tenha uma estadia inesquecível.</p>
         </div>
     </div>
     
     <!-- Item Approach -->
     <div class="row item-approach" data-approach="02">
         <div class="col-12 col-lg-6">
-            <h3 class="title title--h3 js-lines">Friendly Staff</h3>
+            <h3 class="title title--h3 js-lines">Colaboradores</h3>
         </div>
         <div class="col-12 col-lg-6">
-            <p class="paragraph js-scroll-show">Happy customers are loyal customers. Not only is it important for we to provide stellar service, but awesome products as well. </p>
-            <p class="paragraph js-scroll-show">The most important concept of customer satisfaction is accepted all around the world is the expectancy disconfirmation theory. This theory was presented by Oliver, he said that satisfaction stage is the resultant of the distinction between anticipated and supposed performance. </p>
+            <p class="paragraph js-scroll-show">Nos orgulhamos de contarmos com uma equipe de funcionários dedicados e experientes. Cada membro de noss aequipe é cuidadosamente selecionado e treinado para garantir que sua estadia seja agradável e sem preocupações. </p>
+            <p class="paragraph js-scroll-show">Nosso colaboradores estão empenhados em proporcionar um serviço atenciosos, prestativo e profissional. Desde o momento que você chega até o momento do check-out, eles estarão à disposição para transformar sua estadia em nossa pousada em uma experiência única. Seja para fornecedor recomendações locais, ajudar com o planejamento de atividades ou resolver qualquer problema. </p>
         </div>
     </div>
     
     <!-- Item Approach -->
     <div class="row item-approach item-approach__last" data-approach="03">
         <div class="col-12 col-lg-6">
-            <h3 class="title title--h3 js-lines">Customer Satisfaction</h3>
+            <h3 class="title title--h3 js-lines">Satisfação</h3>
         </div>
         <div class="col-12 col-lg-6">
-            <p class="paragraph js-scroll-show">Customer satisfaction is a psychological concept that involves the feeling of well-being and pleasure that results from obtaining what one hopes for and expects from an appealing product and/or service. Customer satisfaction definition is based on the expectation disconfirmation point of view!</p>
+            <p class="paragraph js-scroll-show">Buscamos constantemente superar as expectativas e garantir que cada estadia seja gratificante. Valorizamos o feedback de nossos visitantes e nos esforçamos para oferecer um serviço excepcional.</p>
+            <p class="paragraph js-scroll-show">Seja você um viajante a negócios ou a lazer, esperamos recebê-lo em nossa pousada e garantir que você tenha uma experiência verdadeiramente satisfatória e relaxante. Estamos ansiosos para tornar a sua estadia conosco memorável e para superar todas as suas expectativas.</p>
         </div>
     </div>
 </section>
