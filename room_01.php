@@ -10,7 +10,7 @@
 	<main class="main">
 		<?php include 'partials/room_01/intro.php'; ?>
 		<?php include 'partials/room_01/base_info.php'; ?>
-		<?php include 'partials/accomodations/swiper.php'; ?>
+		<?php include 'partials/room_01/room_details.php'; ?>
 		<?php include 'layout/cta.php'; ?>
 	</main>
 	<!-- /Content -->

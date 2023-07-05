@@ -1,5 +1,5 @@
 <!-- Popular rooms -->
-<section class="section-gray section-gray">
+<section class="section-gray">
     <div class="container">
         <div class="row">
             <div class="col-12">
