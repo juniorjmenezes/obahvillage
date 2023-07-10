@@ -41,42 +41,40 @@
                     </li>
                 </ul>
             </div>
+            <!-- /Amenity -->
         </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
         <div class="col-12">
-            <!-- Amenity -->
-            <h3 class="title title--h3 mt-4 mt-sm-5">Amenidades Externas</h3>
-            <div class="row">
-                <ul class="list-unstyled list-feature col-12 col-md-4">
-                    <li class="list-feature__item">
-                        <img class="icon icon--24" src="assets/icons/icon-pool.svg" alt="" />
-                        02 Piscinas
-                    </li>
-                    <li class="list-feature__item">
-                        <img class="icon icon--24" src="assets/icons/icon-garden.svg" alt="" />
-                        Jardim
-                    </li>
-                </ul>
-                <ul class="list-unstyled list-feature col-12 col-md-4">
-                    <li class="list-feature__item">
-                        <img class="icon icon--24" src="assets/icons/icon-water-slide.svg" alt="" />
-                        Tobogã
-                    </li>
-                    <li class="list-feature__item">
-                        <img class="icon icon--24" src="assets/icons/icon-playground.svg" alt="" />
-                        Parquinho Infantil
-                    </li>
-                </ul>
-                <ul class="list-unstyled list-feature col-12 col-md-4">
-                    <li class="list-feature__item">
-                        <img class="icon icon--24" src="assets/icons/icon-umbrella.svg" alt="" />
-                        Áreas de Descanso
-                    </li>
-                    <li class="list-feature__item">
-                        <img class="icon icon--24" src="assets/icons/icon-beach.svg" alt="" />
-                        Praia do Preá (700m)
-                    </li>
-                </ul>
+            <!-- Gallery slider -->
+            <div class="slider-room ltr swiper-container mt-3">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_05.jpg"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_06.jpg"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_07.jpg"></div>
+                    </div>
+                </div>
+                
+                <!-- Navigation -->
+                <div class="swiper-control swiper-control--bottom">
+                    <div class="slash">
+                    <div class="swiper-button-next swiper-button-square">
+                        <i class="icon-chevron-left"></i>
+                    </div>
+                    <div class="swiper-button-prev swiper-button-square">
+                        <i class="icon-chevron-right"></i>
+                    </div>
+                    </div>
+                </div>
             </div>
+            <!-- /Gallery slider -->
         </div>
     </div>
 </section>
