@@ -14,22 +14,15 @@
             <div class="swiper-wrapper">
                 <!-- Slide 1 -->
                 <div class="swiper-slide">
-                    <div class="coverSlider js-image" data-image="assets/images/image_header_04.jpg"></div>
-                </div>
-            
+                    <div class="coverSlider js-image" data-image="assets/images/about_01.jpg"></div>
+                </div>          
                 <!-- Slide 2 -->
                 <div class="swiper-slide">
-                    <div class="coverSlider js-image" data-image="assets/images/about_image_02.jpg"></div>
-                </div>
-            
+                    <div class="coverSlider js-image" data-image="assets/images/about_02.jpg"></div>
+                </div>        
                 <!-- Slide 3 -->
                 <div class="swiper-slide">
-                    <div class="coverSlider js-image" data-image="assets/images/image_header_04.jpg"></div>
-                </div>
-
-                <!-- Slide 4 -->
-                <div class="swiper-slide">
-                    <div class="coverSlider js-image" data-image="assets/images/image_header_03.jpg"></div>
+                    <div class="coverSlider js-image" data-image="assets/images/about_03.jpg"></div>
                 </div>
             </div>
             
