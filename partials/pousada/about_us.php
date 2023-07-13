@@ -7,7 +7,7 @@
         </div>
         <div class="col-12 col-lg-6 offset-lg-1 offset-top">
             <p class="paragraph js-scroll-show">A Praia de Preá, encanta visitantes de todo o mundo com suas extensas faixas de areia dourada, paisagens deslumbrantes e ventos favoráveis à prática de esportes aquáticos, como kitesurf e windsurf. Além disso, a tranquilidade e o clima acolhedor tornam Preá, um destino perfeito para relaxar e aproveitar momentos inesquecíveis à beira-mar.</p>
-            <p class="paragraph js-scroll-show">Nossa Pousada, lhe leva para o centro de tudo isso! Você estará a poucos metros das areias brancas e de ondas revigorantes. Desfrute de acomodações encantadoras, serviço acolhedor e ao charme autêncito desta deslumbrante região do Litoral cearense.</p>
+            <p class="paragraph js-scroll-show">Nossa Pousada, lhe leva para o centro de tudo isso! Você estará a poucos metros das areias brancas e de ondas revigorantes. Desfrute de acomodações encantadoras, serviço acolhedor e ao charme autêntico desta deslumbrante região do Litoral cearense.</p>
         </div>
         <div class="slider-about col-fullwidth swiper-container">
             <div class="swiper-wrapper">
