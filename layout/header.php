@@ -10,8 +10,8 @@
 				<span></span>
 			</button>
 			<ul class="nav">
-				<li class="nav__item _is-current"><a class="nav__link" href="../pousada.php"><span data-hover="A Pousada">A Pousada</span></a></li>
-				<li class="nav__item"><a class="nav__link" href="#"><span data-hover="Acomodações">Acomodações</span></a></li>
+				<li class="nav__item _is-current"><a class="nav__link" href="../pousada"><span data-hover="A Pousada">A Pousada</span></a></li>
+				<li class="nav__item"><a class="nav__link" href="../accomodations.php"><span data-hover="Acomodações">Acomodações</span></a></li>
 				<li class="nav__item"><a class="nav__link" href="#"><span data-hover="Galeria">Galeria</span></a></li>
 				<li class="nav__item"><a class="nav__link" href="#"><span data-hover="Kite">Kite</span></a></li>
 				<li class="nav__item"><a class="nav__link" href="#"><span data-hover="Contatos">Contatos</span></a></li>
