@@ -12,7 +12,7 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="room_details_v2.html">
+                                <a class="itemRoom__link" href="#">
                                     <img class="cover lazyload" src="assets/images/room_01.jpg" alt="room" />
                                 </a>
                                 <div class="itemRoom__details">
@@ -29,7 +29,7 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="room_details_v2.html">
+                                <a class="itemRoom__link" href="#">
                                     <img class="cover lazyload" src="assets/images/room_02.jpg" alt="room" />
                                 </a>
                                 <div class="itemRoom__details">
@@ -46,7 +46,7 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="room_details_v2.html">
+                                <a class="itemRoom__link" href="#">
                                     <img class="cover lazyload" src="assets/images/room_03.jpg" alt="room" />
                                 </a>
                                 <div class="itemRoom__details">
