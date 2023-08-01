@@ -343,7 +343,7 @@ $(document).ready(function() {
 	// Calculation
 	$('#person-adult, #person-kids').on('change', function(){
         var ret = Number($('#person-adult').val()) + Number($('#person-kids').val());
-        $('#person-total').val(ret + ' persons');
+        $('#person-total').val(ret + ' pessoa(s)');
     });
 	
 	// Clear persons form
