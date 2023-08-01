@@ -53,7 +53,7 @@ function enviarMensagemEmail($checkin, $checkout, $nights, $guests, $name, $emai
     $mail->Password = $password;
     //$mail->Sender = $from_email;
 
-    $mail->SMTPDebug = 3;
+    //$mail->SMTPDebug = 3;
 
     try {
         // Configurações do e-mail
