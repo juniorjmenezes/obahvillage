@@ -538,7 +538,7 @@ iframe {
 
 .inputText:focus, .textarea:focus, .custom-select:focus {
   border: 1px solid #c9a96a;
-  box-shadow: 0px 4px 10px rgba(201, 169, 106, 0.12);
+  /*box-shadow: 0px 4px 10px rgba(201, 169, 106, 0.12);*/
   outline: none;
 }
 

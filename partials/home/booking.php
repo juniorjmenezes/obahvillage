@@ -1,14 +1,14 @@
 <!-- Booking -->
 <div class="bottom-panel bottom-panel--floating">
-    <form class="bottom-panel__wrap d-flex">
+    <form id="booking" class="bottom-panel__wrap d-flex">
         <div class="row bottom-panel__form-wrap">
             <div class="form-group col-date-to col-12 col-sm-6 col-md-4 slash">
                 <label class="labelFeature" for="check-in">Check in</label>
-                <input type="text" class="inputFeature input-arrow readonly js-datepicker" id="check-in" name="check-in" placeholder="Selecione..." required="required" autocomplete="off">
+                <input type="text" class="inputFeature input-arrow readonly js-datepicker in" id="check-in" name="check-in" placeholder="Selecione..." required="required" autocomplete="off">
             </div>
             <div class="form-group col-date-from col-12 col-sm-6 col-md-4 slash">
                 <label class="labelFeature" for="check-out">Check out</label>
-                <input type="text" class="inputFeature input-arrow readonly js-datepicker" id="check-out" name="check-out" placeholder="Selecione..." required="required" autocomplete="off">
+                <input type="text" class="inputFeature input-arrow readonly js-datepicker out" id="check-out" name="check-out" placeholder="Selecione..." required="required" autocomplete="off">
             </div>
             <div class="form-group col-12 col-md-4 dropdown">
                 <div class="closeDropdown" id="dropdownPersonsAction" data-toggle="dropdown" data-display="static">
@@ -22,7 +22,7 @@
                             <label class="label" for="person-adult">Adultos</label>
                             <div class="js-quantity">
                                 <span class="qty-minus icon-minus"></span>
-                                <input type="number" class="inputText js-quantity-input" id="person-adult" name="person-adalt" value="0" min="1" max="8" readonly="readonly">
+                                <input type="number" class="inputText js-quantity-input" id="person-adult" name="person-adult" value="0" min="1" max="8" readonly="readonly">
                                 <span class="qty-plus icon-plus"></span>
                             </div>	
                         </div>
@@ -47,7 +47,8 @@
                 <!-- /Dropdown person -->
             </div>
         </div>
-        <button type="submit" class="btn-booking" style="font-family: 'Playfair Display', serif">Buscar...</button>
+        <button type="submit" class="btn-booking" style="font-family: 'Playfair Display', serif">Enviar</button>
     </form>
 </div>	
 <!-- /Booking -->
+

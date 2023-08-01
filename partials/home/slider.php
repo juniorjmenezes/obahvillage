@@ -20,7 +20,6 @@
             </div>
         </div>
     </div>
-
     <div class="intro-slider__image swiper-container overlay">
         <div class="swiper-wrapper">
             <!-- Image 1 -->
