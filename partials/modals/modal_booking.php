@@ -38,7 +38,7 @@
                     </div>
                     <div class="small mt-3 mb-1" style="line-height: 0.8rem"><span class="text-danger mr-2">*</span><span class="small">Lembramos que até o momento não foi efetuado nenhum bloqueio de disponibilidade de apartamento ou tarifa e os mesmos estão sujeitos à alteração sem aviso prévio.</span></div>
                     <div class="small mt-3 mb-3" style="line-height: 0.8rem"><span class="text-danger mr-2">**</span><span class="small">Reservas também podem ser feitas através do telefone/WhatsApp: +55 88 99664-2583.</span></div>
-                    <button type="submit" class="btn btn-secondary w-100">Consultar Disponibilidade para&nbsp;<span id="modal-guests"></span></button>
+                    <button type="submit" class="btn btn-secondary w-100 d-grid"><div class="text-center">Consultar Disponibilidade para</div><div class="text-center" id="modal-guests"></div></button>
                 </div>
 
             </form>
