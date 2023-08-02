@@ -5,6 +5,7 @@
 	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css'>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.18/dist/sweetalert2.min.css">
 	<style>
     /* Remover estilo .form-control:focus */
 	.iti {
@@ -13,13 +14,26 @@
 	#sent-data input {
 		-webkit-text-fill-color: #2c3f58 !important;
 	}
-	.form-control {
-		font-size: 0.875rem;
+	.inputText {
+		font-size: 0.9rem;
 	}
-	.form-control:focus {
-		outline: none; /* Remove o contorno quando o input está em foco */
-		box-shadow: none; /* Remove qualquer sombra ao redor do input */
-		border: 1px solid #c9a96a;
+	.swal2-modal {
+		padding: 20px !important;
+	}
+	.swal2-title {
+		padding: 0 !important;
+		color: inherit !important;
+		font-size: 1.25rem !important;
+	}
+	.swal2-html-container {
+		padding-top: 1.5rem !important;
+		padding-bottom: 0 !important;
+		font-size: inherit !important;
+		color: inherit !important
+	}
+	.swal2-confirm {
+		border-radius: 50px !important;
+		background-color: #105063 !important;
 	}
   </style>
 </head>
