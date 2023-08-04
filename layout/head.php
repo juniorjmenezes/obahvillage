@@ -27,6 +27,3 @@
 <!-- Styles -->
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css"/>
 <link rel="stylesheet" type="text/css" href="assets/gbr/style-gbr.css"/>
-
-<!-- Flags -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>

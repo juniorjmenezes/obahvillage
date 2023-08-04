@@ -3,4 +3,5 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^pousada$ pousada.php [L]
 RewriteRule ^acomodacoes$ accomodations.php [L]
+RewriteRule ^galeria$ gallery.php [L]
 RewriteRule ^contatos$ contacts.php [L]
