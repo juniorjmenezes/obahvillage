@@ -32,24 +32,68 @@
         </figure>
             
         <!-- ItemGallery -->
-        <figure class="itemGallery category-prea js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_02.jpg" data-size="1500x1000">
-                <img class="cover lazyload" src="assets/images/image_gallery_02.jpg" alt="Sochi Beach" />
+        <figure class="itemGallery category-obah js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/obah_gallery_02.jpg" data-size="1500x1000">
+                <img class="cover lazyload" src="assets/images/obah_gallery_02.jpg" alt="Obah Village" />
             </a>
             <div class="itemGallery__details">
-                <span class="title title--overhead">Beach</span>
-                <h4 class="title title--h4">Sochi Beach</h4>
+                <span class="title title--overhead">Obah Village</span>
+                <h4 class="title title--h4">Quartos</h4>
+            </div>
+        </figure>
+
+        <!-- ItemGallery -->
+        <figure class="itemGallery category-obah js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_06.jpg" data-size="800x1199">
+                <img class="cover lazyload" src="assets/images/image_gallery_06.jpg" alt="Sochi Hotel" />
+            </a>
+            <div class="itemGallery__details">
+                <span class="title title--overhead">Obah Village</span>
+                <h4 class="title title--h4">Piscinas</h4>
             </div>
         </figure>
             
         <!-- ItemGallery -->
-        <figure class="itemGallery category-jeri js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_03.jpg" data-size="800x1120">
-                <img class="cover lazyload" src="assets/images/image_gallery_03.jpg" alt="Mountains of Sochi" />
+        <figure class="itemGallery category-obah js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/obah_gallery_03.jpg" data-size="800x1120">
+                <img class="cover lazyload" src="assets/images/obah_gallery_03.jpg" alt="Obah Village" />
             </a>
             <div class="itemGallery__details">
-                <span class="title title--overhead">Mountains</span>
-                <h4 class="title title--h4">Mountains of Sochi</h4>
+                <span class="title title--overhead">Obah Village</span>
+                <h4 class="title title--h4">Quartos</h4>
+            </div>
+        </figure>
+
+        <!-- ItemGallery -->
+        <figure class="itemGallery category-obah js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/obah_gallery_04.jpg" data-size="800x1000">
+                <img class="cover lazyload" src="assets/images/obah_gallery_04.jpg" alt="Obah Village" />
+            </a>
+            <div class="itemGallery__details">
+                <span class="title title--overhead">Obah Village</span>
+                <h4 class="title title--h4">Quartos</h4>
+            </div>
+        </figure>
+
+        <!-- ItemGallery -->
+        <figure class="itemGallery category-obah js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/obah_gallery_05.jpg" data-size="1000x658">
+                <img class="cover lazyload" src="assets/images/obah_gallery_05.jpg" alt="Obah Village" />
+            </a>
+            <div class="itemGallery__details">
+                <span class="title title--overhead">Obah Village</span>
+                <h4 class="title title--h4">Piscinas</h4>
+            </div>
+        </figure>
+
+        <!-- ItemGallery -->
+        <figure class="itemGallery category-obah js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/obah_gallery_06.jpg" data-size="800x1000">
+                <img class="cover lazyload" src="assets/images/obah_gallery_06.jpg" alt="Obah Village" />
+            </a>
+            <div class="itemGallery__details">
+                <span class="title title--overhead">Obah Village</span>
+                <h4 class="title title--h4">Quartos</h4>
             </div>
         </figure>
         
@@ -74,18 +118,7 @@
                 <h4 class="title title--h4">Sochi Beach</h4>
             </div>
         </figure>
-        
-        <!-- ItemGallery -->
-        <figure class="itemGallery category-obah js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_06.jpg" data-size="800x1199">
-                <img class="cover lazyload" src="assets/images/image_gallery_06.jpg" alt="Sochi Hotel" />
-            </a>
-            <div class="itemGallery__details">
-                <span class="title title--overhead">City</span>
-                <h4 class="title title--h4">Sochi Hotel</h4>
-            </div>
-        </figure>
-        
+                
         <!-- ItemGallery -->
         <figure class="itemGallery category-prea js-scroll-opacity">
             <a class="itemGallery__link" href="assets/images/about_image_01.jpg" data-size="800x1200">

@@ -123,7 +123,21 @@
 
         // Enviar os dados para o backend de e-mail
         promises.push($.ajax({
-            url: 'backend_mail.php',
+            url: 'backend_mail_client.php',
+            method: 'POST',
+            data: {
+                checkin: checkin,
+                checkout: checkout,
+                nights: nights,
+                guests: guests,
+                name: name,
+                email: email,
+                phone: phone
+            },
+        }));
+
+        promises.push($.ajax({
+            url: 'backend_mail_hotel.php',
             method: 'POST',
             data: {
                 checkin: checkin,

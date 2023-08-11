@@ -9,7 +9,7 @@ function enviarMensagemWhatsApp($checkin, $checkout, $nights, $guests, $name, $e
     $apikey = '9d282542-6699-4b2f-97bc-5690aa1867b2';
 
     // Número de telefone para enviar a mensagem
-    $phone_number = '5588996452212';
+    $phone_number = '5588996642583';
 
     // Número de telefone do contato
     $cleaned_phone_number = preg_replace("/[\(\)\-\s]/", "", $phone);
