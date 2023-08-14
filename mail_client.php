@@ -65,7 +65,7 @@ function enviarMensagemEmail($checkin, $checkout, $nights, $guests, $name, $emai
             </ul>
             <p class='text-obah fw-bold'>Aguarde nosso contato para confirmar o seu pedido, ou se preferir, fale diretamente conosco através do telefone/WhatsApp: +55 88 99664-2583.</p>
             <p><small class='text-obah'><span class='text-danger'>*</span> Lembramos que até o momento não foi efetuado nenhum bloqueio de disponibilidade de apartamento ou tarifa e os mesmos estão sujeitos à alteração sem aviso prévio. <br><span class='text-danger'>**</span> Não é necessário responder a este email.</small></p>
-            <img src='https://www.obahvillage.com.br/mail/logo_mail.png' alt='Obah Village'>
+            <img src='https://www.obahvillage.com.br/assets/images/logo_mail.png' alt='Obah Village'>'>
         </body>
         </html>
     ";

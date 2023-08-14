@@ -8,8 +8,6 @@
 			</ul>
 		</div>
 		<ul class="footer__social">
-		    <li><a href="#" class="social-link"><i class="icon-facebook-alt"></i></a></li>
-		    <li><a href="#" class="social-link"><i class="icon-twitter-alt"></i></a></li>
-		    <li><a href="https://instagram.com/pousadaobahvillage_?igshid=MzRlODBiNWFlZA==" target="_blank" class="social-link"><i class="icon-instagram"></i></a></li>
+		     <li><a href="https://instagram.com/pousadaobahvillage_?igshid=MzRlODBiNWFlZA==" target="_blank" class="social-link"><i class="icon-instagram"></i></a></li>
 		</ul>
 	</footer>

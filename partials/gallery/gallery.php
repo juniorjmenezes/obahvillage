@@ -12,8 +12,8 @@
                 <ul class="filter">
                     <li class="filter__item active" data-filter="*"><a class="filter__link active" href="gallery.html#filter">Todas</a></li>
                     <li class="filter__item" data-filter=".category-obah"><a class="filter__link" href="galeria#filter">Obah Village</a></li>
-                    <li class="filter__item" data-filter=".category-prea"><a class="filter__link" href="galeria#filter">Preá</a></li>
-                    <li class="filter__item" data-filter=".category-jeri"><a class="filter__link" href="galeria#filter">Jericoacoara</a></li>
+                    <li class="filter__item" data-filter=".category-accomodations"><a class="filter__link" href="galeria#filter">Acomodações</a></li>
+                    <li class="filter__item" data-filter=".category-garden"><a class="filter__link" href="galeria#filter">Jardim e Piscinas</a></li>
                 </ul>
                 <input type="hidden" name="changemetoo"/>
             </div>
@@ -27,7 +27,6 @@
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Obah Village</span>
-                <h4 class="title title--h4">A Pousada</h4>
             </div>
         </figure>
             
@@ -98,7 +97,7 @@
         </figure>
         
         <!-- ItemGallery -->
-        <figure class="itemGallery category-prea js-scroll-opacity">
+        <figure class="itemGallery category-accomodations js-scroll-opacity">
             <a class="itemGallery__link" href="assets/images/image_gallery_04.jpg" data-size="1000x1250">
                 <img class="cover lazyload" src="assets/images/image_gallery_04.jpg" alt="Sochi Beach" />
             </a>
@@ -109,7 +108,7 @@
         </figure>
         
         <!-- ItemGallery -->
-        <figure class="itemGallery category-prea js-scroll-opacity">
+        <figure class="itemGallery category-accomodations js-scroll-opacity">
             <a class="itemGallery__link" href="assets/images/image_gallery_05.jpg" data-size="800x1000">
                 <img class="cover lazyload" src="assets/images/image_gallery_05.jpg" alt="Sochi Beach" />
             </a>
@@ -120,7 +119,7 @@
         </figure>
                 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-prea js-scroll-opacity">
+        <figure class="itemGallery category-accomodations js-scroll-opacity">
             <a class="itemGallery__link" href="assets/images/about_image_01.jpg" data-size="800x1200">
                 <img class="cover lazyload" src="assets/images/about_image_01.jpg" alt="Sochi Beach" />
             </a>
