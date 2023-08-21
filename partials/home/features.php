@@ -10,44 +10,80 @@
     <div class="row js-scroll-show">
         <ul class="list-unstyled list-feature col-12 col-md-4">
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-parking.svg" alt="">
-                Estacionamento Gratuito
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">local_parking</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Estacionamento Grátis</span>
+                    </div>
+                </div>
             </li>
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-garden.svg" alt="">
-                Jardim
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">deceased</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Jardim</span>
+                    </div>
+                </div>
             </li>
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-pool.svg" alt="">
-                02 Piscinas
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">pool</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">02 Piscinas</span>
+                    </div>
+                </div>
             </li>
         </ul>
         <ul class="list-unstyled list-feature col-12 col-md-4">
-        <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-conditioner.svg" alt="">
-                Ar-condicionado
+            <li class="list-feature__item">
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">ac_unit</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Ar-condicionado</span>
+                    </div>
+                </div>
             </li>
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-tv.svg" alt="">
-                TV
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">hd</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">TV</span>
+                    </div>
+                </div>
             </li>
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-wifi.svg" alt="">
-                Wi-Fi Gratuito
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">network_wifi_3_bar</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Wi-fi</span>
+                    </div>
+                </div>
             </li>
         </ul>
         <ul class="list-unstyled list-feature col-12 col-md-4">
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-pets.svg" alt="">
-                Aceitamos Pets
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">sound_detection_dog_barking</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Aceitamos Pets</span>
+                    </div>
+                </div>
             </li>
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-cleaner.svg" alt="">
-                Limpeza Diária
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">concierge</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Limpeza Diária</span>
+                    </div>
+                </div>
             </li>
             <li class="list-feature__item">
-                <img class="icon icon--24" src="assets/icons/icon-family.svg" alt="">
-                Quartos para Família
+                <div class="d-flex align-items-center">
+                    <span class="material-symbols-outlined mr-3">family_restroom</span>
+                    <div style="line-height: 1">
+                        <span class="d-block">Quartos para Famílias</span>
+                    </div>
+                </div>
             </li>
         </ul>
     </div>
