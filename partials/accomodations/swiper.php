@@ -12,8 +12,8 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="#">
-                                    <img class="cover lazyload" src="assets/images/room_01.jpg" alt="room" />
+                                <a class="itemRoom__link" href="../quarto-standard">
+                                    <img class="cover lazyload" src="assets/images/room_01.jpg" alt="Quarto Standard" />
                                 </a>
                                 <div class="itemRoom__details">
                                     <h4 class="title title--h4">Quarto Standard</h4>
@@ -33,7 +33,7 @@
                                     <img class="cover lazyload" src="assets/images/room_02.jpg" alt="room" />
                                 </a>
                                 <div class="itemRoom__details">
-                                    <h4 class="title title--h4">Quarto Deluxe</h4>
+                                    <h4 class="title title--h4">Quarto Varanda</h4>
                                 </div>
                             </figure>
                             <div class="itemRoom__details-extended">
