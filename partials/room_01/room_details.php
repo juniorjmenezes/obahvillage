@@ -2,9 +2,8 @@
 <section class="section-gray">
     <div class="container p-0">
         <div class="col-12">
-            <h3 class="title title--h3">Descrição</h3>
-            <p>Acomodações equipadas com 01 cama de casal e Acomodações equipadas com 01 cama de casal e 01 cama de solteiro. Todas as tomadas do quarto são 220 volts.</p>
-            <p class="mb-0">Quarto nas alas internas da Pousada, sem vista externa.</p>
+            <p>Uma opção ideal para quem busca uma estadia confortável e agradável em um dos locais mais belos do litoral do Preá. O Quarto Standard é equipado com uma cama de casal e uma cama de solteiro, permitindo acomodar até três pessoas confortavelmente. O quarto é decorado com cores claras e alegres, proporcionando um ambiente aconchegante e convidativo. Nossa cama de casal é de tamanho queen, com lindo acabamento em madeira, criando um espaço ainda mais acolhedor. Para sua comodidade, o quarto também inclui ar-condicionado, frigobar, televisão e Wi-Fi gratuito.</p>
+            <p class="mb-0">Além disso, o quarto dispõe de um banheiro privativo equipado com chuveiro quente e toalhas macias. Para completar sua experiência, oferecemos um delicioso café da manhã com frutas frescas, pães, bolos e sucos naturais. Não perca a oportunidade de desfrutar de um momento único de relaxamento e conforto no nosso Quarto Standard na Pousada Obah Village. Esperamos recebê-lo em breve!</p>
         </div>				
         <div class="col-12">
             <!-- Amenity -->
@@ -100,7 +99,16 @@
                         <div class="coverSlider js-image" data-image="assets/images/image_room_01_02.jpg"></div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_07.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_03.jpg"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_04.jpg"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_05.jpg"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_06.jpg"></div>
                     </div>
                 </div>
                 
