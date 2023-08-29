@@ -1,7 +1,7 @@
 <!-- Intro -->
 <section class="intro">
     <div class="intro__bg-wrap">
-        <div class="overlay intro__bg js-image js-parallax js-scale-down" data-image="assets/images/room_01.jpg"></div>
+        <div class="overlay intro__bg js-image js-parallax js-scale-down" data-image="assets/images/room_02.jpg"></div>
     </div>
     <div class="container intro__container">
         <div class="row h-100 align-items-center">
