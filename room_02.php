@@ -8,11 +8,11 @@
 	<?php include 'layout/header.php'; ?>
 	<!-- Content -->
 	<main class="main">
-		<?php include 'partials/pousada/intro.php'; ?>
-		<?php include 'layout/contact_info.php'; ?>
-	    <?php include 'partials/pousada/about.php'; ?>
-	    <?php include 'partials/pousada/experience.php'; ?>
-	    <?php include 'layout/cta.php'; ?>
+		<?php include 'partials/room_02/intro.php'; ?>
+		<?php include 'partials/room_02/base_info.php'; ?>
+		<?php include 'partials/room_02/room_details.php'; ?>
+		<?php include 'partials/room_02/gallery.php'; ?>
+		<?php include 'layout/cta.php'; ?>
 	</main>
 	<!-- /Content -->
 	<?php include 'layout/footer.php'; ?>

@@ -1,13 +1,14 @@
 <!-- Popular rooms -->
-<section class="section-gray">
+<section id="accomodations" class="section-gray">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="title title--h1 js-lines">Sua casa na Praia.</h1>
+                <h1 class="title title--h1 js-lines">Seu destino predileto lhe espera!</h1>
+                <p class="mr-0 mr-lg-4 paragraph js-scroll-show" style="transform: translateY(0px); opacity: 1;">Quartos confortáveis, com design que remete ao ambiente praiano a apenas 700m da mundialmente conhecida, Praia do Preá. Escolha o ambiente para o seu descanso neste paraíso natural!</p>
             </div>				
             <div class="col-12">
                 <!-- Carousel -->
-                <div class="swiper-container js-rooms">
+                <div class="swiper-container js-rooms mt-4">
                     <div class="swiper-wrapper">
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
@@ -20,43 +21,58 @@
                                 </div>
                             </figure>
                             <div class="itemRoom__details-extended">
-                                <div class="item-extended"><i class="icon-users"></i>Até 3 Pessoas</div>
-                                <div class="item-extended mr-4"><i class="icon-bed"></i>1 Cama Solteiro</div>
-                                <div class="item-extended"><i class="icon-bed"></i>1 Cama Casal</div>
+                                <div class="item-extended mb-0">
+                                    <div class="d-flex align-items-center">
+                                        <span class="material-symbols-outlined mr-3">face</span>
+                                        <div style="line-height: 1">
+                                            <span class="d-block">Até 03 Pessoas</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
             
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="#">
-                                    <img class="cover lazyload" src="assets/images/room_02.jpg" alt="room" />
+                                <a class="itemRoom__link" href="../quarto-varanda">
+                                    <img class="cover lazyload" src="assets/images/room_02.jpg" alt="Quarto Varanda" />
                                 </a>
                                 <div class="itemRoom__details">
                                     <h4 class="title title--h4">Quarto Varanda</h4>
                                 </div>
                             </figure>
                             <div class="itemRoom__details-extended">
-                                <div class="item-extended"><i class="icon-users"></i>Até 4 Pessoas</div>
-                                <div class="item-extended mr-4"><i class="icon-bed"></i>1 Cama Solteiro</div>
-                                <div class="item-extended"><i class="icon-bed"></i>1 Cama Beliche</div>
+                                <div class="item-extended mb-0">
+                                    <div class="d-flex align-items-center">
+                                        <span class="material-symbols-outlined mr-3">face</span>
+                                        <div style="line-height: 1">
+                                            <span class="d-block">Até 04 Pessoas</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="#">
-                                    <img class="cover lazyload" src="assets/images/room_03.jpg" alt="room" />
+                                <a class="itemRoom__link" href="../quarto-familia">
+                                    <img class="cover lazyload" src="assets/images/room_03.jpg" alt="Quarto Família" />
                                 </a>
                                 <div class="itemRoom__details">
                                     <h4 class="title title--h4">Quarto Família</h4>
                                 </div>
                             </figure>
                             <div class="itemRoom__details-extended">
-                            <div class="item-extended"><i class="icon-users"></i>Até 6 Pessoas</div>
-                                <div class="item-extended mr-4"><i class="icon-bed"></i>1 Cama Solteiro</div>
-                                <div class="item-extended"><i class="icon-bed"></i>2 Camas Beliche</div>
+                                <div class="item-extended mb-0">
+                                    <div class="d-flex align-items-center">
+                                        <span class="material-symbols-outlined mr-3">face</span>
+                                        <div style="line-height: 1">
+                                            <span class="d-block">Até 06 Pessoas</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

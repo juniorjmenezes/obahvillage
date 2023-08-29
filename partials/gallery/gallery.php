@@ -1,7 +1,8 @@
-<section class="container section section-first">
+<section class="section-gray">
+    <div class="container">
     <div class="row">
         <div class="col-12 col-lg-6">
-            <h1 class="title title--h1 js-lines">Obahbook.</h1>
+            <h1 class="title title--h1 js-lines">Obahbook</h1>
         </div>
         <div class="col-12">
         <!-- Filters -->
@@ -114,7 +115,7 @@
                 <img class="cover lazyload" src="assets/images/image_gallery_obah_10.jpg" alt="Obah Village" />
             </a>
             <div class="itemGallery__details">
-                <h4 class="title title--h4">Obah Village</h4>
+                <h4 class="title title--overhead">Obah Village</h4>
             </div>
         </figure>
                 
@@ -124,7 +125,7 @@
                 <img class="cover lazyload" src="assets/images/image_gallery_accomodations_01.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
-                <h4 class="title title--h4">Acomodações</h4>
+                <h4 class="title title--overhead">Acomodações</h4>
             </div>
         </figure>
         
@@ -134,7 +135,7 @@
                 <img class="cover lazyload" src="assets/images/image_gallery_accomodations_02.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
-                <h4 class="title title--h4">Acomodações</h4>
+                <h4 class="title title--overhead">Acomodações</h4>
             </div>
         </figure>
         
@@ -144,7 +145,7 @@
                 <img class="cover lazyload" src="assets/images/image_gallery_accomodations_03.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
-            <h4 class="title title--h4">Acomodações</h4>
+            <h4 class="title title--overhead">Acomodações</h4>
             </div>
         </figure>
 
@@ -217,5 +218,6 @@
                 <span class="title title--overhead">Acomodações</span>
             </div>
         </figure>
+    </div>
     </div>
 </section>

@@ -8,7 +8,7 @@
                         <div class="d-flex align-items-center">
                             <span class="material-symbols-outlined mr-2" style="font-size: 1.8rem">face</span>
                             <div style="line-height: 1">
-                                <span class="d-block">Até 04 Pessoas</span>
+                                <span class="d-block">Até 06 Pessoas</span>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                         <div class="d-flex align-items-center">
                             <span class="material-symbols-outlined mr-2" style="font-size: 1.8rem">view_agenda</span>
                             <div style="line-height: 1">
-                                <span class="d-block">01 Cama Beliche (consultar)</span>
+                                <span class="d-block">02 Cama Beliche</span>
                             </div>
                         </div>
                     </div>

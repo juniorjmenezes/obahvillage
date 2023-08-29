@@ -6,7 +6,7 @@
     <div class="container intro__container">
         <div class="row h-100 align-items-center">
             <div class="col-12 col-md-12 col-xl-8">
-                <h1 class="title title--display-1 js-lines mt-4">Quarto Standard</h1>
+                <h1 class="title title--display-1 js-lines mt-4">Quarto Varanda.</h1>
             </div>
         </div>				
     </div>
