@@ -5,22 +5,22 @@
             <div class="slider-room ltr swiper-container mt-3">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_01.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_02_01.jpg"></div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_02.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_02_02.jpg"></div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_03.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_02_03.jpg"></div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_04.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_02_04.jpg"></div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_05.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_02_05.jpg"></div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="coverSlider js-image" data-image="assets/images/image_room_01_06.jpg"></div>
+                        <div class="coverSlider js-image" data-image="assets/images/image_room_02_06.jpg"></div>
                     </div>
                 </div>
                 
