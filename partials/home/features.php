@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-12">
             <h2 class="title-description js-lines mb-4">Nosso objetivo é superar suas expectativas!</h2>
-            <p class="paragraph js-scroll-show mb-4">Situados na Vila Preá, a 700 metros da praia e a 12 km da Vila de Jericoacoara, oferecemos acomodações com Wi-Fi gratuito, ar-condicionado, piscina ao ar livre e jardim. Há um banheiro privativo totalmente equipado com chuveiro e amenidades de banho gratuitas. A Pousada fica a 13 km da Duna do Pôr do Sol e a 10 km do Farol de Jericoacoara e da Pedra Furada. O aeroporto mais próximo é o Aeroporto Regional Ariston Pessoa, a 16 km.</p>
+            <p class="paragraph js-scroll-show mb-4">Situados na Vila Preá, a 700 metros da praia e a 12 km da Vila de Jericoacoara, oferecemos acomodações com banheiro privativo totalmente equipado com chuveiro e amenidades de banho, wi-fi gratuito, ar-condicionado, piscina ao ar livre e jardim. A Pousada fica a 13 km da Duna do Pôr do Sol e a 10 km do Farol de Jericoacoara e da Pedra Furada. O aeroporto mais próximo é o Aeroporto Regional Ariston Pessoa, a 16 km.</p>
         </div>
     </div>
     
