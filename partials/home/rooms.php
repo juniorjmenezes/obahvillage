@@ -17,10 +17,9 @@
                 <div class="swiper-wrapper">
                     <!-- ItemRoom -->
                     <div class="itemRoom itemRoom__portrait swiper-slide">
-                        <span class="badge">Popular</span>
                         <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="#">
-                                <img class="cover" src="assets/images/room_01.jpg" alt="room" />
+                            <a class="itemRoom__link" href="../quarto-standard">
+                                <img class="cover" src="assets/images/room_01.jpg" alt="Quarto Standard" />
                             </a>
                         </figure>
                         <div class="itemRoom__details">
@@ -31,20 +30,20 @@
                     <!-- ItemRoom -->
                     <div class="itemRoom itemRoom__portrait swiper-slide">
                         <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="#">
-                                <img class="cover" src="assets/images/room_02.jpg" alt="room" />
+                            <a class="itemRoom__link" href="../quarto-varanda">
+                                <img class="cover" src="assets/images/room_02.jpg" alt="Quarto Varanda" />
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Deluxe</h4>
+                            <h4 class="title title--h4">Quarto Varanda</h4>
                         </div>
                     </div>	
 
                     <!-- ItemRoom -->
                     <div class="itemRoom itemRoom__portrait swiper-slide">
                         <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="#">
-                                <img class="cover" src="assets/images/room_03.jpg" alt="room" />
+                            <a class="itemRoom__link" href="../quarto-familia">
+                                <img class="cover" src="assets/images/room_03.jpg" alt="Quarto Família" />
                             </a>
                         </figure>
                         <div class="itemRoom__details">
