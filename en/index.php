@@ -81,7 +81,7 @@
 		// Obtenha os valores dos campos do formulário
 		var checkIn = $("#check-in").val();
 		var checkOut = $("#check-out").val();
-		var guests = $("#person-adult").val() + " adulto(s) e " + $("#person-kids").val() + " criança(s)";
+		var guests = $("#person-adult").val() + " adult(s) and " + $("#person-kids").val() + " kid(s)";
 
 		// Calcular o número de diárias
 		var nights = calcularDiarias(checkIn, checkOut);

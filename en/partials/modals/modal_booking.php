@@ -96,9 +96,9 @@
         function showSuccessMessage() {
             Swal.fire({
                 position: 'top-end',
-                title: 'Obah! Agora é só aguardar...',
-                text: 'Já recebemos o seu pedido. Aguarde nosso contato para a confirmação de sua reserva!',
-                confirmButtonText: 'Fechar',
+                title: 'Obah! Now, just wait...',
+                text: 'We´ve received your request. Please wait for our contact to confirm your reservation!',
+                confirmButtonText: 'Close',
                 customClass: {
                     confirmButton: 'btn btn-secondary',
                 },
@@ -112,9 +112,9 @@
         function showErrorMessage() {
             Swal.fire({
                 position: 'top-end',
-                title: 'Ah não! Tente novamente...',
-                text: 'Ocorreu um erro ao enviar os dados.',
-                confirmButtonText: 'Fechar',
+                title: 'Oh no! Try again...',
+                text: 'An error occurred while sending the data.',
+                confirmButtonText: 'Close',
                 customClass: {
                     confirmButton: 'btn btn-danger',
                 },
