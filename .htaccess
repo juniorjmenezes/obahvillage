@@ -4,7 +4,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^pousada$ pousada.php [L]
 RewriteRule ^obahvillage$ /en/pousada.php [L]
 RewriteRule ^acomodacoes$ accommodations.php [L]
-RewriteRule ^accommodations$ /en/accommodations.php [L]
+RewriteRule ^/en/accommodations$ /en/accommodations.php [L]
 RewriteRule ^galeria$ gallery.php [L]
 RewriteRule ^gallery$ /en/gallery.php [L]
 RewriteRule ^kite$ kite.php [L]
