@@ -13,8 +13,8 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="../quarto-standard">
-                                    <img class="cover lazyload" src="assets/images/room_01.jpg" alt="Quarto Standard" />
+                                <a class="itemRoom__link" href="../en/standard-room">
+                                    <img class="cover lazyload" src="assets/images/room_01.jpg" alt="Standard Room" />
                                 </a>
                                 <div class="itemRoom__details">
                                     <h4 class="title title--h4">Standard Room</h4>
@@ -35,8 +35,8 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="../quarto-varanda">
-                                    <img class="cover lazyload" src="assets/images/room_02.jpg" alt="Quarto Varanda" />
+                                <a class="itemRoom__link" href="../en/varanda-room">
+                                    <img class="cover lazyload" src="assets/images/room_02.jpg" alt="Varanda Room" />
                                 </a>
                                 <div class="itemRoom__details">
                                     <h4 class="title title--h4">Varanda Room</h4>
@@ -57,8 +57,8 @@
                         <!-- ItemRoom extended -->
                         <div class="itemRoom itemRoom__extended swiper-slide">
                             <figure class="itemRoom__img-wrap">
-                                <a class="itemRoom__link" href="../quarto-familia">
-                                    <img class="cover lazyload" src="assets/images/room_03.jpg" alt="Quarto Família" />
+                                <a class="itemRoom__link" href="../en/family-room">
+                                    <img class="cover lazyload" src="assets/images/room_03.jpg" alt="Family Room" />
                                 </a>
                                 <div class="itemRoom__details">
                                     <h4 class="title title--h4">Family Room</h4>
