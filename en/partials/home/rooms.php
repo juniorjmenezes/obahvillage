@@ -3,7 +3,7 @@
     <div class="row align-items-end">
         <div class="col-12 col-md-12 col-lg-8">
             <span class="title title--overhead js-lines">Suites</span>
-            <h1 class="title title--h1 js-lines">Our Accomodations.</h1>
+            <h1 class="title title--h1 js-lines">Our Accommodations.</h1>
         </div>
         <div class="col-12 col-md-12 col-lg-4 text-lg-right d-none d-md-block">
             <a class="btn-link header-btn-more" href="rooms.html">View all</a>
@@ -18,36 +18,36 @@
                     <!-- ItemRoom -->
                     <div class="itemRoom itemRoom__portrait swiper-slide">
                         <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="../quarto-standard">
-                                <img class="cover" src="assets/images/room_01.jpg" alt="Quarto Standard" />
+                            <a class="itemRoom__link" href="../en/standard-room">
+                                <img class="cover" src="assets/images/room_01.jpg" alt="Standard Room" />
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Standard</h4>
+                            <h4 class="title title--h4">Standard Room</h4>
                         </div>	
                     </div>
 
                     <!-- ItemRoom -->
                     <div class="itemRoom itemRoom__portrait swiper-slide">
                         <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="../quarto-varanda">
-                                <img class="cover" src="assets/images/room_02.jpg" alt="Quarto Varanda" />
+                            <a class="itemRoom__link" href="../en/varanda-room">
+                                <img class="cover" src="assets/images/room_02.jpg" alt="Varanda Room" />
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Varanda</h4>
+                            <h4 class="title title--h4">Varanda Room</h4>
                         </div>
                     </div>	
 
                     <!-- ItemRoom -->
                     <div class="itemRoom itemRoom__portrait swiper-slide">
                         <figure class="itemRoom__img-wrap">
-                            <a class="itemRoom__link" href="../quarto-familia">
-                                <img class="cover" src="assets/images/room_03.jpg" alt="Quarto Família" />
+                            <a class="itemRoom__link" href="../en/family-room">
+                                <img class="cover" src="assets/images/room_03.jpg" alt="Family Room" />
                             </a>
                         </figure>
                         <div class="itemRoom__details">
-                            <h4 class="title title--h4">Quarto Família</h4>
+                            <h4 class="title title--h4">Family Room</h4>
                         </div>
                     </div>
                 </div>
