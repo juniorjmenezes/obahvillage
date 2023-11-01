@@ -17,13 +17,6 @@
 <meta property="og:description" content="Obah Village" />
 <meta property="og:site_name" content="Obah Village" />
 
-<!-- Favicons -->
-<link rel="apple-touch-icon" sizes="144x144" href="assets/images/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="114x114" href="assets/images/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicons/apple-touch-icon-57x57.png">
-<link rel="shortcut icon" href="assets/images/favicons/favicon.png" type="image/png">
-
 <!-- Styles -->
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css"/>
 <link rel="stylesheet" type="text/css" href="assets/gbr/style-gbr.css"/>
