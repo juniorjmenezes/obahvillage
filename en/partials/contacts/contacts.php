@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-12 col-md-6 col-lg-6 col-contact js-scroll-show">
             <h4 class="title title--h4">Address</h4>
-            <p class="paragraph">Vila Preá, N/A<br>Preá - Ceará - Brasil</p>
+            <p class="paragraph">Vila Preá, N/A<br>Preá - Ceará - Brazil</p>
         </div>
         <div class="col-12 col-md-6 col-lg-6 col-contact js-scroll-show">
             <h4 class="title title--h4">Reservations</h4>
