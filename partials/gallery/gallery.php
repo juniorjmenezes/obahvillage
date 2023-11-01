@@ -1,4 +1,4 @@
-<section class="section-gray">
+<section class="section-gray" id="gallery">
     <div class="container">
     <div class="row">
         <div class="col-12 col-lg-6">

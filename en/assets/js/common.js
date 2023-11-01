@@ -343,7 +343,7 @@ $(document).ready(function() {
 	// Calculation
 	$('#person-adult, #person-kids').on('change', function(){
         var ret = Number($('#person-adult').val()) + Number($('#person-kids').val());
-        $('#person-total').val(ret + ' persons');
+        $('#person-total').val(ret + ' pessoa(s)');
     });
 	
 	// Clear persons form
@@ -366,7 +366,7 @@ $(document).ready(function() {
 	$('.js-datepicker').each(function() {
         if (!isMobile) {
             $('.js-datepicker').flatpickr({
-                dateFormat: 'd M y',
+                dateFormat: 'd/m/y',
 		        //minDate: 'today',
 		        closeOnSelect: false,
 		        allowInput: true,
@@ -386,7 +386,7 @@ $(document).ready(function() {
     
 	    if (isMobile) {
             $('.js-datepicker').flatpickr({
-                dateFormat: 'd M y',
+                dateFormat: 'd/m/y',
 				"locale": "en"
             });
 	    }
@@ -396,7 +396,7 @@ $(document).ready(function() {
 	$('.js-datepicker-mobile').each(function() {
         if (!isMobile) {
             $('.js-datepicker-mobile').flatpickr({
-                dateFormat: 'd M y',
+                dateFormat: 'd/m/y',
 		        //minDate: 'today',
 		        closeOnSelect: true,
 		        allowInput: true,
@@ -416,7 +416,7 @@ $(document).ready(function() {
     
 	    if (isMobile) {
             $('.js-datepicker').flatpickr({
-                dateFormat: 'd M y',
+                dateFormat: 'd/m/y',
 				"locale": "en"
             });
 	    }

@@ -44,6 +44,6 @@
     </div>
     
     <!-- Scroll To -->
-    <a class="scroll-to" href="https://art-template.ru/sochi/!#about">ObahVillage<span class="scroll-to__line"></span></a>
+    <a class="scroll-to" href="#about">Obah Village<span class="scroll-to__line"></span></a>
 </section>
 <!-- /Slider -->

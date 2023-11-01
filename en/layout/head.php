@@ -6,23 +6,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="format-detection" content="telephone=no"/>
 <meta name="format-detection" content="address=no"/>
-<meta name="author" content="ArtTemplates" />
-<meta name="description" content="Sochi — A Modern Hotel Booking Sketch Template" />
-
-<!-- Twitter data -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@ArtTemplates">
-<meta name="twitter:title" content="Sochi">
-<meta name="twitter:description" content="Sochi — A Modern Hotel Booking Sketch Template">
-<meta name="twitter:image" content="assets/images/social.jpg">
+<meta name="author" content="GBR" />
+<meta name="description" content="Obah Village" />
 
 <!-- Open Graph data -->
-<meta property="og:title" content="ArtTemplate" />
+<meta property="og:title" content="Obah Village" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="your url website" />
+<meta property="og:url" content="www.obahvillage.com.br" />
 <meta property="og:image" content="assets/images/social.jpg" />
-<meta property="og:description" content="Sochi — A Modern Hotel Booking Sketch Template" />
-<meta property="og:site_name" content="Sochi" />
+<meta property="og:description" content="Obah Village" />
+<meta property="og:site_name" content="Obah Village" />
 
 <!-- Favicons -->
 <link rel="apple-touch-icon" sizes="144x144" href="assets/images/favicons/apple-touch-icon-144x144.png">
@@ -34,6 +27,5 @@
 <!-- Styles -->
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css"/>
 <link rel="stylesheet" type="text/css" href="assets/gbr/style-gbr.css"/>
-
-<!-- Flags -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css" integrity="sha384-b6lVK+yci+bfDmaY1u0zE8YYJt0TZxLEAFyYSLHId4xoVvsrQu3INevFKo+Xir8e" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />

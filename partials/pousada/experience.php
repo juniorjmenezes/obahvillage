@@ -24,8 +24,8 @@
             <h3 class="title title--h3 js-lines">Colaboradores</h3>
         </div>
         <div class="col-12 col-lg-6">
-            <p class="paragraph js-scroll-show">Nos orgulhamos de contarmos com uma equipe de funcionários dedicados e experientes. Cada membro de noss aequipe é cuidadosamente selecionado e treinado para garantir que sua estadia seja agradável e sem preocupações. </p>
-            <p class="paragraph js-scroll-show">Nosso colaboradores estão empenhados em proporcionar um serviço atenciosos, prestativo e profissional. Desde o momento que você chega até o momento do check-out, eles estarão à disposição para transformar sua estadia em nossa pousada em uma experiência única. Seja para fornecedor recomendações locais, ajudar com o planejamento de atividades ou resolver qualquer problema. </p>
+            <p class="paragraph js-scroll-show">Nos orgulhamos de contarmos com uma equipe de funcionários dedicados e experientes. Cada membro de nossa equipe é cuidadosamente selecionado e treinado para garantir que sua estadia seja agradável e sem preocupações.</p>
+            <p class="paragraph js-scroll-show">Nosso colaboradores estão empenhados em proporcionar um serviço atenciosos, prestativo e profissional. Desde o momento que você chega até o momento do check-out, eles estarão à disposição para transformar sua estadia em nossa pousada em uma experiência única. Seja para fornecedor recomendações locais, ajudar com o planejamento de atividades ou resolver qualquer problema.</p>
         </div>
     </div>
     
