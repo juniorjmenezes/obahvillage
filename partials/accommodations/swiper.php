@@ -1,5 +1,5 @@
 <!-- Popular rooms -->
-<section id="accomodations" class="section-gray">
+<section id="accommodations" class="section-gray">
     <div class="container">
         <div class="row">
             <div class="col-12">

@@ -12,7 +12,7 @@
                 <ul class="filter">
                     <li class="filter__item active" data-filter="*"><a class="filter__link active" href="gallery.html#filter">Todas</a></li>
                     <li class="filter__item" data-filter=".category-obah"><a class="filter__link" href="galeria#filter">Obah Village</a></li>
-                    <li class="filter__item" data-filter=".category-accomodations"><a class="filter__link" href="galeria#filter">Acomodações</a></li>
+                    <li class="filter__item" data-filter=".category-accommodations"><a class="filter__link" href="galeria#filter">Acomodações</a></li>
                 </ul>
                 <input type="hidden" name="changemetoo"/>
             </div>
@@ -120,9 +120,9 @@
         </figure>
                 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_01.jpg" data-size="800x1200">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_01.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_01.jpg" data-size="800x1200">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_01.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <h4 class="title title--overhead">Acomodações</h4>
@@ -130,9 +130,9 @@
         </figure>
         
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_02.jpg" data-size="800x1000">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_02.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_02.jpg" data-size="800x1000">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_02.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <h4 class="title title--overhead">Acomodações</h4>
@@ -140,9 +140,9 @@
         </figure>
         
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_03.jpg" data-size="1000x658">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_03.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_03.jpg" data-size="1000x658">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_03.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
             <h4 class="title title--overhead">Acomodações</h4>
@@ -150,9 +150,9 @@
         </figure>
 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_04.jpg" data-size="1500x1875">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_04.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_04.jpg" data-size="1500x1875">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_04.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
@@ -160,9 +160,9 @@
         </figure>
             
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_05.jpg" data-size="1500x1000">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_05.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_05.jpg" data-size="1500x1000">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_05.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
@@ -170,9 +170,9 @@
         </figure>
 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_06.jpg" data-size="1500x1000">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_06.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_06.jpg" data-size="1500x1000">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_06.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
@@ -180,9 +180,9 @@
         </figure>
 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_07.jpg" data-size="1500x1875">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_07.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_07.jpg" data-size="1500x1875">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_07.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
@@ -190,9 +190,9 @@
         </figure>
 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_08.jpg" data-size="800x1199">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_08.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_08.jpg" data-size="800x1199">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_08.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
@@ -200,9 +200,9 @@
         </figure>
 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_09.jpg" data-size="1500x1000">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_09.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_09.jpg" data-size="1500x1000">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_09.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
@@ -210,9 +210,9 @@
         </figure>
 
         <!-- ItemGallery -->
-        <figure class="itemGallery category-accomodations js-scroll-opacity">
-            <a class="itemGallery__link" href="assets/images/image_gallery_accomodations_10.jpg" data-size="1500x1000">
-                <img class="cover lazyload" src="assets/images/image_gallery_accomodations_10.jpg" alt="Acomodações" />
+        <figure class="itemGallery category-accommodations js-scroll-opacity">
+            <a class="itemGallery__link" href="assets/images/image_gallery_accommodations_10.jpg" data-size="1500x1000">
+                <img class="cover lazyload" src="assets/images/image_gallery_accommodations_10.jpg" alt="Acomodações" />
             </a>
             <div class="itemGallery__details">
                 <span class="title title--overhead">Acomodações</span>
