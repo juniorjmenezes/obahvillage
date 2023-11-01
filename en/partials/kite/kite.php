@@ -1,4 +1,4 @@
-<section id="kitesurf" class="container section section-first">
+<section class="container section section-first" id="kitesurf">
     <div class="row">
         <div class="col-12 col-md-12 col-lg-8">
             <span class="title title--overhead js-lines">Kitesurf</span>

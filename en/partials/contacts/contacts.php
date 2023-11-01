@@ -1,4 +1,4 @@
-<section class="container section section-first">
+<section class="container section section-first" id="contacts">
     <div class="row">
         <div class="col-12">
             <h1 class="title title--h1 js-lines">Find us.</h1>

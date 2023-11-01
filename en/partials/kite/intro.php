@@ -11,6 +11,6 @@
         </div>				
     </div>
     <!-- Scroll To -->
-    <a class="scroll-to" href="#about">Scroll<span class="scroll-to__line"></span></a>
+    <a class="scroll-to" href="#kitesurf">Scroll<span class="scroll-to__line"></span></a>
 </section>
 <!-- /Intro -->
